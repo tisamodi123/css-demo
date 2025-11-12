@@ -1,0 +1,32 @@
+.one:link {
+    background-color: red;
+    padding: 10px;
+    color: white;
+}
+
+.one:hover {
+    background-color: purple;
+    color: white;
+}
+
+.one:active {
+    background-color: orange;
+    color: green;
+}
+
+.one:visited {
+    background-color: yellow;
+    color: red;
+}
+.inp:hover{
+    background-color: orange;
+    
+}
+.inp:active{
+    background-color: blue;
+}
+.inp:focus{
+    background-color: green;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}

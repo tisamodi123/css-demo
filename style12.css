@@ -1,0 +1,19 @@
+.navbar{
+    width: 100%;
+    background-color: yellow;
+    overflow: auto;
+}
+.navbar ul{
+    overflow: auto;
+    list-style: none;
+}
+.navbar ul li{
+    /* float: left; */
+    display: inline-block;
+    padding: 10px;
+    border: 10px ridge green;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: red;
+}

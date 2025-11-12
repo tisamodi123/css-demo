@@ -1,0 +1,26 @@
+.sol {
+    /* border-width: 5px;
+    border-color: red;
+    border-style: solid; */
+    border: 5px solid red;
+}
+
+.das {
+    border: 5px dashed red;
+}
+
+.dot {
+    border: 5px dotted red;
+}
+
+.dou {
+    border: 5px double red;
+}
+
+.rid {
+    border: 5px ridge red;
+}
+
+.gro {
+    border: 5px groove red;
+}

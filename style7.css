@@ -1,0 +1,29 @@
+.one{
+    background-color: darkviolet;
+    height: 70px;
+    width: 70px;
+    margin: 10px 200px 0px 500px;
+    padding: 50px 90px 50px 50px;
+    border: 5px double skyblue;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
+.sankofa-display-regular {
+    font-family: "Sankofa Display", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.two{
+    background-color: pink;
+    background-image: url(im.webp);
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    background-position: 50% 50%;
+    background-size: cover;
+    margin: 10px 200px 0px 500px;
+    padding: 50px 90px 50px 50px;
+   border: 5px ridge red; 
+   font-size: large;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+}

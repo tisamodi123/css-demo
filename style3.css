@@ -1,0 +1,27 @@
+/* .one {
+    background-color: red;
+    height: 200px;
+
+}
+
+#one {
+    background-color: orange;
+    height: 200px;
+}
+.two{
+    font-size: 50px;
+    color: blue;
+}
+#two{
+    font-size: 50px;
+    color: green;
+} */
+.one {
+    background-color: red;
+    height: 500px;
+    background-image: url(baba.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 30%;
+    background-blend-mode: exclusion;
+}

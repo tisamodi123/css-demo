@@ -1,0 +1,24 @@
+.xyz{
+    width: 100%;
+    background-color: aqua;
+    overflow: auto;
+    background-image: url(im.webp);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: auto;
+    float:none;
+}
+.one{
+    width: 400px;
+    height: 400px;
+    background-image: url(sai\ baba.jpg);
+    background-repeat: no-repeat;
+    float: left;
+}
+.two{
+    width: 400px;
+    height: 400px;
+    background-image: url(baba.jpg);
+    background-repeat: no-repeat;
+    float: right;
+}

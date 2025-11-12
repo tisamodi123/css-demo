@@ -1,0 +1,18 @@
+.con{
+    width: 100%;
+    /* height: 300px; */
+    background-color: red;
+    overflow: auto;
+}
+.one{
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    float: left;
+}
+.two{
+    width: 300px;
+    height: 300px;
+    background-color: orange;
+    float: right;
+}

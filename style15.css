@@ -1,0 +1,28 @@
+.one:link {
+    background-color: orangered;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+
+.one:hover {
+    background-color: darkmagenta;
+    color: white;
+}
+
+.one:active{
+    background-color: red;
+    color: green;
+}
+.one:visited{
+    background-color: chartreuse;
+    color: red;
+}
+.two:hover{
+    background-color: red;
+    color: greenyellow;
+}
+.two:focus{
+    background-color: black;
+    color: whitesmoke;
+}

@@ -1,0 +1,88 @@
+.three {
+  float: right;
+  width: 50%;
+  height: 400px;
+  background-color: aqua;
+}
+
+.three img {
+  height: 400px;
+  width: 100%;
+}
+
+.four {
+  width: 50%;
+  background-color: cadetblue;
+  height: 400px;
+  float: left;
+}
+
+.con {
+  height: 200px;
+  width: 100%;
+  overflow: auto;
+}
+.five{
+  float: left;
+  width: 50%;
+  height: 400px;
+  background-color: blue;
+}
+.five img {
+  height: 400px;
+  width: 100%;
+}
+.six{
+  width: 50%;
+  background-color: orangered;
+  height: 400px;
+  float: left;
+}
+.con1 {
+  height: 100px;
+  width: 100%;
+  overflow: auto;
+}
+.seven{
+  float: right;
+  width: 50%;
+  height: 400px;
+  background-color: blue;
+}
+.seven img {
+  height: 400px;
+  width: 100%;
+}
+.eight{
+  width: 50%;
+  background-color: blue;
+  height: 400px;
+  float: right;
+}
+.con2 {
+  height: 100px;
+  width: 100%;
+  overflow: auto;
+}
+.nine{
+  float: left;
+  width: 50%;
+  height: 400px;
+  background-color: blue;
+}
+.nine img {
+  height: 400px;
+  width: 100%;
+}
+.ten{
+  width: 50%;
+  background-color: purple;
+  height: 400px;
+  float: left;
+}
+.con3 {
+  height: 100px;
+  width: 100%;
+  overflow: auto;
+}
+

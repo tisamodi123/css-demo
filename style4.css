@@ -1,0 +1,48 @@
+.one {
+    background-color: blue;
+    height: 100px;
+    backface-visibility: visible;
+}
+
+.two {
+    background-color: blueviolet;
+}
+
+#three {
+    background-color: aqua;
+}
+
+.four {
+    background-color: aquamarine;
+    height: 5000px;
+    background-image: url(baba.jpg);
+    background-repeat: no-repeat;
+    background-clip: initial;
+    background-size: auto;
+    background-position: 50% 50%;
+    background-blend-mode: darken;
+}
+
+.sol{
+    border: 5px solid violet;
+}
+
+.das{
+    border: 5px dashed blue;
+}
+
+.rid{
+   border: 5px ridge skyblue;
+}
+
+.gro{
+    border: 5px groove burlywood;
+}
+
+.dot{
+    border: 5px dotted purple;
+}
+
+.dou{
+    border: 5px double palevioletred;
+}
